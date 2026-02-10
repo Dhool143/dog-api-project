@@ -1,3 +1,4 @@
+
 async function fetchBreeds() {
     try {
       const response = await fetch('https://dogapi.dog/api/v2/breeds');
